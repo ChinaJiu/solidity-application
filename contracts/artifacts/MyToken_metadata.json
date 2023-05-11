@@ -337,11 +337,11 @@
 			]
 		},
 		"contracts/1-erc20.sol": {
-			"keccak256": "0x9d27993c7b2ed0b124d113606ece488dc8368952cfbf94e3b9955e59718f7e7e",
+			"keccak256": "0x9488bda265b8da853dc52c162dcd305be93d2d4b4b35461b7a1401c633d466e6",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://12198fe339d626284d4c184652ffbed64714163fe991dcfebdf24a1a2add8c3c",
-				"dweb:/ipfs/QmRBsWAaWSzV1VGP6hDUDJbdYxqytW1yRY9zphG9v1gHdG"
+				"bzz-raw://94cc49fdb0498940098d69bffc1317b22f369abba29951c0ebcfb473846df2c8",
+				"dweb:/ipfs/Qmb28jiNJLSPogHZdZNhccCAvgB2RLp2hGRAGYUCKGUoSq"
 			]
 		}
 	},
