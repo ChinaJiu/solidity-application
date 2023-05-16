@@ -147,11 +147,11 @@
 			]
 		},
 		"contracts/6-1-merkle-tree.sol": {
-			"keccak256": "0x4cd530587a995530527a6a9174bb6ea890c55090cd0854e90ec546176b86e59e",
+			"keccak256": "0xfb9d1d86a120e8934922f23074a0232ff655a801ba7dc0aeeb464dee1136d4dc",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://6c658f622dd922d5f73ec7f5c728aba21cf74373ae18d3a92ab3c6128679a15a",
-				"dweb:/ipfs/QmZTc8caRic34hP9n1acRvVM9tGRz8zdh8ifC5AYQNbdxH"
+				"bzz-raw://7d9ed30b4f23366c8112209dc1831ba3a88f72d13250dd09a655f555a6914082",
+				"dweb:/ipfs/QmTqjgQidEZ618RKMYnVk8wrs2k8nobMAqwwqem1QZNLiy"
 			]
 		}
 	},

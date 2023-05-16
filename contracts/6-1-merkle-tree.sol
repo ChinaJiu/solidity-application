@@ -3,7 +3,8 @@ pragma solidity >=0.4.16 <0.9.0;
 
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 
-//https://lab.miguelmota.com/merkletreejs/example/
+//https://lab.miguelmota.com/merkletreejs/example/  Merkle Tree 生成网站
+
 
 library MerkleProof {
     /**
