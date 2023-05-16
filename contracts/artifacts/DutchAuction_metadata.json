@@ -201,6 +201,19 @@
 				"type": "function"
 			},
 			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "quantity",
+						"type": "uint256"
+					}
+				],
+				"name": "auctionMint",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
 				"inputs": [],
 				"name": "auctionStartTime",
 				"outputs": [
@@ -686,11 +699,11 @@
 			]
 		},
 		"contracts/5-荷兰拍卖.sol": {
-			"keccak256": "0x5bb2421fb81ad48a95ae6e4f303d08cbbe1226434490676694e3e5586a97ecd6",
+			"keccak256": "0x5b7bce741bd5a8dd98aa876da67ba3bb00c5ac7df505ca5539797f4dc24b3ad8",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://42f2133ae172a28f314760914e3e0f794ca0511effdd20a0ff9fd8f2ee6b9217",
-				"dweb:/ipfs/QmVzkBJN8dp1QQWks553MC9iRhpaSVCeZvViu2dPwtGz8J"
+				"bzz-raw://326b082eacffe63018f51dfcb2148f680d03ea5833102fa44d6455560d37389a",
+				"dweb:/ipfs/QmYk5MNaNAvdMVq4qngjt9HV1Qho9nryHYTRDWrcop5WDx"
 			]
 		}
 	},

@@ -64,7 +64,7 @@ contract DutchAuction is Ownable, ERC721 {
         "sale has not started yet"
         ); // 检查是否设置起拍时间，拍卖是否开始
         require(
-        totalSupply() + quantity <= COLLECTOIN_SIZE,
+        quantity <= COLLECTOIN_SIZE,
         "not enough remaining reserved for auction to support desired mint amount"
         ); // 检查是否超过NFT上限
 
@@ -73,9 +73,9 @@ contract DutchAuction is Ownable, ERC721 {
         
         // Mint NFT
         for(uint256 i = 0; i < quantity; i++) {
-            uint256 mintIndex = totalSupply();
+            uint256 mintIndex = i;
             _mint(msg.sender, mintIndex);
-            _addTokenToAllTokensEnumeration(mintIndex);
+            // _addTokenToAllTokensEnumeration(mintIndex);
         }
         // 多余ETH退款
         if (msg.value > totalCost) {
