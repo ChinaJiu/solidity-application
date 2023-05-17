@@ -476,7 +476,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/6-merkle-tree.sol": "MerkleTree"
+			"contracts/6-通过merkle-tree发放nft白名单.sol": "MerkleTree"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -570,7 +570,7 @@
 				"dweb:/ipfs/Qmct36zWXv3j7LZB83uwbg7TXwnZSN1fqHNDZ93GG98bGz"
 			]
 		},
-		"contracts/6-merkle-tree.sol": {
+		"contracts/6-通过merkle-tree发放nft白名单.sol": {
 			"keccak256": "0xe2936c19da82c4bc0baf3d3ed840891120dce7b0ca66ed3af3d2a9a2080e80d4",
 			"license": "GPL-3.0",
 			"urls": [
