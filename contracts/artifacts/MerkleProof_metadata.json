@@ -52,7 +52,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/6-1-merkle-tree.sol": "MerkleProof"
+			"contracts/6-merkle-tree.sol": "MerkleProof"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -146,12 +146,12 @@
 				"dweb:/ipfs/Qmct36zWXv3j7LZB83uwbg7TXwnZSN1fqHNDZ93GG98bGz"
 			]
 		},
-		"contracts/6-1-merkle-tree.sol": {
-			"keccak256": "0xfb9d1d86a120e8934922f23074a0232ff655a801ba7dc0aeeb464dee1136d4dc",
+		"contracts/6-merkle-tree.sol": {
+			"keccak256": "0xe2936c19da82c4bc0baf3d3ed840891120dce7b0ca66ed3af3d2a9a2080e80d4",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://7d9ed30b4f23366c8112209dc1831ba3a88f72d13250dd09a655f555a6914082",
-				"dweb:/ipfs/QmTqjgQidEZ618RKMYnVk8wrs2k8nobMAqwwqem1QZNLiy"
+				"bzz-raw://c282485c6d4755977129c18edd16c7077f3c2058b792df6880a0191e3763abbf",
+				"dweb:/ipfs/QmeHPBUwTBKDY4ZZWzKYd2VwjnGffDFTk2ho3AUgcfEmQ4"
 			]
 		}
 	},
